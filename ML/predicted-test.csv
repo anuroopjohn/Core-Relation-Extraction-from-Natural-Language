@@ -1,0 +1,452 @@
+Utterences,Predicted Core realtions
+star of thor,movie.rating
+who is in the movie the campaign,movie.language
+list the cast of the movie the campaign,movie.directed_by
+who was in twilight,movie.starring.actor
+who is in vulguria,movie.starring.actor
+actor from lost,movie.genre
+who played in the movie rocky,movie.country
+who played in the movie captain america,none
+cast and crew for in july,movie.country movie.language
+who is in movie in july,movie.directed_by
+who's in star wars episode four,none
+who was in apollo thirteen,movie.directed_by
+who was apollo thirteen 's cast,movie.rating
+search for information about the cast and crew of appolo thirteen,movie.country
+i would like to know more about the cast and crew of the movie apollo thirteen,none
+who starred in the avengers,movie.genre
+cast for finding nemo,movie.language
+actor from lassie,movie.directed_by
+list actors in the movie midnight cowboy,none
+dirty dancing actors,movie.initial_release_date
+who are cast and crew of dirty dancing,movie.initial_release_date
+who was in hitch,none
+who is in the cast of hitch,movie.rating
+star of facts of life,movie.language
+show me movie credits,movie.language
+who does the voices for the movie,movie.production_companies
+find movie actors,movie.starring.actor
+show credits - forager,movie.directed_by
+star of modern family,movie.starring.actor movie.starring.character
+look up information about the cast crew of go,movie.language
+find information about the cast and crew of go,movie.initial_release_date
+who was in the cast of go,movie.directed_by
+can you find the lead actor in pretty women,movie.rating
+what are the actors names and parts in finding nemo,none
+searching for names of crew members of appollo thirteen,movie.starring.actor
+budget for dark knight,movie.directed_by
+what was the budget for the godfather,movie.directed_by
+budget for twilight,movie.genre
+please look up the budget of step up,movie.starring.actor
+budget for titanic the movie,movie.country movie.locations
+what was the budget for the movie titanic,movie.language
+budget for iron man 2,movie.genre
+please tell me how much was the budget for avatar,movie.country
+how much money did they spend to make avatar,movie.directed_by
+avatar 's budget,movie.rating
+how much did avatar take in,movie.produced_by
+please show me what the budget was for avatar,movie.country
+what was the budget for the avatar movie,movie.country
+can you tell me the budget of the movie avatar,movie.estimated_budget
+total budget for the movie avatar,movie.starring.actor movie.starring.character
+what was the budget for batman begins,none
+what was the budget for the avengers,movie.starring.actor
+what was the budget for gone with the wind,movie.genre
+what was spent on my big fat greek wedding,movie.rating
+what was pretty woman s budget,none
+what was the budget for spaceballs,movie.estimated_budget
+how many movies has kevin bacon been the lead actor in,movie.directed_by
+how many star wars movies are there,movie.initial_release_date
+how many movies are rated g,movie.directed_by movie.initial_release_date
+spain has how many movies,movie.rating
+how many movies has kristen stewart starred in,none
+how many movies has robert wise directed,movie.produced_by
+how many movies did alfred hitchcock direct,movie.initial_release_date
+how many movies has paramount done,movie.directed_by
+i would like to know the name of the country from where the movie kati patang comes,movie.starring.actor movie.starring.character
+what country is bullhead,none
+what country made black swan,movie.rating
+what country was black swan from,none
+what country was the movie made,movie.estimated_budget
+what country did deep blue sea come from,movie.language
+origin of titanic,movie.country
+origin of king lear,movie.starring.actor
+when will top gun be released,none
+release year and date for casino,movie.directed_by
+when did will ferrell begin acting,movie.directed_by
+show me when 24 will be released,movie.directed_by
+can i have release date of movie,movie.starring.actor
+movie's release date,none
+show me when the movie was made,movie.country movie.language
+when the movie titanic was released,movie.initial_release_date
+what year did the italian movie roman holiday come out,movie.subjects
+can you please search for release date for karate kid,movie.directed_by
+karate kid release date please,movie.estimated_budget
+when was dirty dancing released,movie.starring.actor
+when was spaceballs released,movie.starring.actor
+when was batman released,none
+when was pretty woman released,none
+when was men in black released,movie.directed_by
+when did kristen stewart start acting,movie.directed_by
+when is possessed going to be released,movie.genre
+when was resident evil released,none
+release date for finding nemo,none
+when was finding nemo released,none
+release date of hum tum,movie.genre
+when was freedom writers released,movie.language
+when was avatar released,none
+when did avatar released,person.date_of_birth
+i would like to know the release date of the movie avatar,movie.starring.actor
+can you tell me when was the movie avatar released,movie.directed_by
+when was date night released,movie.language
+when did black swan come out,none
+when did avergers come out,movie.starring.actor
+what date did the amazing spiderman show for the 1st time,movie.directed_by
+what is the release date of vulgaria,movie.produced_by
+when the movie the godfather was released,movie.country movie.language
+when does looper come out,movie.genre
+can you tell me the release date of the movie barfi,movie.directed_by
+what date did the movie heroine come out,movie.starring.actor
+when did the house at the end of the street hit theaters,movie.genre
+what day is fun size coming out,movie.country
+what day will django unchained come out,none
+when will i be able to view iron man 3,movie.rating movie.initial_release_date
+on what date will iron man 3 be released,movie.produced_by
+who directed gone with the wind,none
+who was the director for black swan,movie.produced_by
+tell me the directed of black swan,movie.rating
+who is the director of sleepless in seattle,movie.subjects
+find who the director was in men in black 3,movie.country movie.language
+locate the director who created the movie men in black 3,movie.production_companies
+director of titanic,movie.production_companies
+titanic director,movie.country
+avengers movie director,movie.starring.actor
+dirctor of movie avengers,none
+who was the director for nacho libre,none
+director for big,movie.directed_by
+who was the director of welcome to the dollhouse,none
+who directed the movie house at the end of the at the street,movie.directed_by
+who was the director of the movie toy story,none
+list director gilda,movie.subjects
+who directed field of dreams,movie.starring.actor
+who is the second director on finding nemo,movie.country movie.language
+find director of finding nemo,movie.initial_release_date
+who directed finding nemo,movie.initial_release_date
+finding nemo directed by who,movie.estimated_budget movie.directed_by
+director of finding nemo,movie.country
+who directed hitch,movie.directed_by
+i want to know who is the director of the movie batman,movie.production_companies
+who is director of the words,movie.rating
+who directed million dollar baby,movie.directed_by
+who was the guy that directed moneyball,movie.production_companies
+who did twilight,movie.country
+twilight director,movie.country
+who directed twilight,movie.country
+who directed twilight,movie.directed_by
+who is the director of hum tum,movie.production_companies
+look for the director of step up,movie.subjects
+please find the director of freedom writers,movie.rating
+find the director of freedom writers,movie.starring.actor
+look up the director of freedom writers,movie.directed_by
+find the director of freedom writers,movie.directed_by
+who directed baby mama,movie.starring.actor
+godfather director,movie.estimated_budget
+show me who directed the sound of music,movie.subjects
+who directed the sound of music,movie.production_companies
+who directed the sound of music,movie.produced_by
+find the name of the director of return,movie.language
+show movie avengers director name,movie.production_companies
+name the director in sleepless in seattle,none
+what 's the genre for black swan,none
+what is black swan 's genre,movie.genre
+what genre is parenthood,movie.produced_by
+what kind of movie is parenthood,movie.country
+genre for pride and prejudice,movie.country movie.language
+can you tell me the genre of the movie lawless,movie.production_companies
+show me what genre does movie lawless belongs to,movie.directed_by
+genre for snow white and the huntsman,none
+what is the movie type,movie.starring.actor movie.starring.character
+what's the genre of rushmore,movie.starring.actor
+get the genre of welcome to the dollhouse,movie.starring.actor
+i want to find the genre freedom writers is in,movie.rating
+what genre is freedom writers in,movie.production_companies
+genre for batman,movie.genre
+give me the genre of the movie avatar,movie.directed_by
+i would like to know the genre of the movie avatar,movie.country
+genre for bad teacher,movie.country
+can you tell me pretty girl the movie 's genre,movie.directed_by
+what genre is the movie pitch perfect,movie.starring.actor
+in what language is this movie,none
+what language is this movie,movie.rating
+what language is the movie hero in,movie.starring.actor
+language of king lear,movie.gross_revenue
+language of casa blanca,movie.language
+what language is head on in,movie.starring.actor
+language of spanglish,movie.language
+find out what language the father of my children is in,movie.genre
+i am intersted in viewing belle what foreign language is the movie available in,movie.produced_by
+i need to find out about names of some japanese movies,movie.country movie.language
+can you tell me names of some japanese movies,movie.country
+ron howard name some of the movies he produce,movie.language
+tell me the names of the movies produced by william packer,movie.directed_by
+about life is beautiful,movie.country
+show me info on life is beautiful,movie.rating
+find old movies,movie.rating
+find movie ratings,movie.language
+find newly released movies in spanish,movie.directed_by
+was bill paxton in the movie apollo thirteen,none
+was kevin bacon in the movie apollo thirteen,movie.language
+find movies about dancing,movie.rating
+search for movies about dancing,movie.country
+show will ferrell films,movie.directed_by
+will ferrell movies,movie.rating
+what movies has will ferrell appeared in,movie.gross_revenue
+find russian movies,movie.starring.actor
+show me the movie pretty women so i can see who starred in the movie,none
+feral,movie.genre
+the movie is called big,movie.initial_release_date
+will smith acting carrer,movie.initial_release_date
+how many movies did peter jackson do,none
+movies and gross payment,movie.production_companies
+search for tim burton movies in french,movie.subjects
+exhibit all details of original finding nemo movie,movie.rating
+finding nemo movie,movie.produced_by
+find the movie finding nemo,movie.directed_by
+i am looking for information on the movie finding nemo,movie.genre
+show me details for the movie finding nemo,movie.starring.actor
+what did andrew stanton direct,movie.country
+show me some other movies directed by andrew stanton,movie.language
+display albert brooks movie,movie.estimated_budget
+show a movie with albert brooks in the cast,movie.gross_revenue
+what other films has sergio leone directed,movie.country movie.language
+what movies has george harrison produced,movie.produced_by
+what has charlie sheen starred in,movie.initial_release_date
+please find the movies in which clive owen has appeared,movie.directed_by
+in which movies has clive owen appear,movie.directed_by
+spike lee directed what movie,movie.initial_release_date
+search for movies directed by spike lee,movie.directed_by
+movie release dates,movie.language
+director information for movies,movie.subjects
+movies by director,movie.produced_by
+please list all movies not rated pg,movie.directed_by
+find movies,movie.genre
+i want a list of english speaking movies,movie.directed_by
+a list of movies made in america,movie.directed_by
+are there any movies produced in the united states,movie.produced_by
+show english movies,movie.starring.actor
+search english movies,movie.country
+comedy,movie.starring.actor
+find a comedy,movie.starring.actor
+watch comedy movies,movie.directed_by
+get horror films,movie.starring.actor
+show me horror movies,movie.gross_revenue
+i want to see a listing of horror movies,movie.directed_by
+show actor bruce willis movies,movie.rating
+which movies did bruce willis star in,movie.rating
+list movies with bruce willis,movie.directed_by
+show me movies made in canada,movie.country movie.language
+can i watch a canadian film,movie.language
+see canadian movies,movie.initial_release_date
+search for information about canadian movies,movie.produced_by
+I'd like to see some italian films,movie.language
+show me something italian - made,movie.directed_by
+i want to see a movie from spain,movie.initial_release_date
+find movies from spain,movie.initial_release_date
+spain country movies,movie.language
+display a list of spanish films,movie.starring.actor
+spanish movie listing,movie.starring.actor
+spanish movies,movie.starring.actor movie.starring.character
+find actors in movies,movie.estimated_budget
+search by actors,movie.rating
+find some romantic movies,none
+i want to see a movie in french,movie.directed_by
+gwyneth paltrow movies,movie.starring.actor
+find movies with quentin tarantino as director,movie.estimated_budget
+england movies,movie.estimated_budget
+england movies please,movie.starring.actor
+find david tennant movies,none
+show me what richard lester directed,movie.starring.actor
+get films in hindi,movie.rating
+show me movies from india,none
+what is a british horror movie,movie.initial_release_date
+i want to watch an r rated comedy,none
+list of french language comedies,movie.rating
+look for dirty dancing movie with jennifer grey,movie.starring.actor
+tell me in detail about the movie dirty dancing,movie.rating
+tell about movie dirty dancing,movie.directed_by
+can i see a list of bette midler movies,movie.country
+list of movies starring bette midler,movie.rating
+show me all of anne hathaway 's movies,movie.language
+what movies has sandra bullock produced,movie.genre
+find me movies from portugal,movie.starring.actor
+what movies has robert redford been in,movie.directed_by
+dirty dancing info,movie.initial_release_date
+dirty dancing,movie.rating
+give a short bio for dirty dancing,movie.language
+about dirty dancing,movie.rating
+movies from japan,none
+show movies from japan,movie.subjects
+list japanese movies,movie.starring.actor
+show me japanese movies,movie.starring.actor
+give me a list of some japanese movies,movie.language
+give me a list of japanese movies,movie.directed_by
+japanese movies,movie.production_companies
+show me japanese language movies,movie.directed_by
+which films are spoken in japanese,movie.rating
+miramax films only,movie.starring.actor
+show movies by miramax,movie.produced_by
+search sandra bullock movies,movie.genre
+watch sandra bullock movies,movie.country movie.language
+find movies about vampires,movie.directed_by
+find movies having vampires,none
+will smith movies,movie.country
+cars movie,movie.country
+what movies did darla anderson produce,movie.country
+what films are made by paramount,movie.directed_by
+show me movies by paramount,movie.initial_release_date
+what movies has paramount released,movie.starring.actor movie.starring.character
+show all movies from turkey,movie.produced_by
+show me movies produced by bruce lee,movie.directed_by
+is parenthood a drama,movie.directed_by
+i want to see an kevin james film tonight,none
+find films from china,movie.language
+get films from china,movie.starring.actor
+i'd like to watch a movie made in china,none
+list some movies from china,movie.directed_by
+chinese films,none
+show me other chinese movies,movie.directed_by
+show me chinese movies,movie.starring.actor
+what movies have a pg-13 rating,movie.rating
+please list movies that are rated pg-13,movie.country movie.language
+i need a g rating so i can take the kids,none
+find a g rated movie,movie.starring.actor
+find g movies,movie.produced_by
+find g movies,movie.produced_by
+i want rated g movies,movie.produced_by
+look up g rated movies,movie.rating
+i am searching for any g rated movies for my children to view,none
+rated g movies for family watching,movie.directed_by
+find g rated movies,movie.produced_by
+are there any movies rated g playing,movie.estimated_budget
+i want to see movies rated g,movie.starring.actor
+find movies rated g,movie.directed_by
+show me movies with g rating,movie.language
+did robert wise direct any other musicals,none
+bruce lee produced movie listing,movie.language
+what was the last movie made by robert wise,movie.directed_by
+find movies produced by mgm,movie.directed_by
+show me british made movies,movie.starring.actor movie.initial_release_date
+movies from the uk,movie.language
+find me movies from the uk,movie.rating
+can you list ron howard movie production,movie.rating
+i need to know the movies produce by ron howard,movie.subjects
+did clint eastwood direct any other movies besides million dollar baby,movie.estimated_budget
+find movies directed by clint eastwood,movie.country
+what movies have been directed by clint eastwood,movie.rating
+list all movies that were directed by clint eastwood,movie.directed_by
+what movies has clint eastwood directed,movie.rating
+show movies directed by clint eastwood,movie.produced_by
+find all films by stanley kubrick,movie.country
+i want to select the option to search for movies produced by stephen spielberg,movie.initial_release_date
+i would like to search for movies produced by stephen speilberg,none
+show me japanese horror movies,movie.genre
+i would like to see movies ron howard directed,none
+movies by stephen spielberg,movie.directed_by
+movies by stephen spielberg,movie.initial_release_date
+what movies did stephen spielberg direct,movie.language
+list steven spielberg movies,movie.directed_by
+steven spielberg movie,movie.directed_by
+steven spielberg movies please,movie.starring.actor
+directed by steven spielberg,movie.subjects
+find the steven spielberg movies,movie.production_companies
+find movies from steven spielberg,movie.production_companies
+i would like to watch a movie directed by eddie murphy,movie.produced_by
+the camp,movie.starring.actor
+watch sandra bullock the blind side,movie.estimated_budget
+i want to see movies with hugh jackman,movie.starring.actor
+list movies with kevin spacey,none
+look for movies from france,movie.starring.actor
+can you show me movies that were made in france,movie.directed_by
+find me any movies that were made in france,movie.starring.actor
+french movies please,movie.starring.actor
+french movies,none
+find movies produced by,movie.subjects
+movies by producers,none
+display movies produced by,none
+find movies produced by mosfilm,movie.subjects
+what was kristen stewart 's first movie,movie.language
+get me movies directed by miranda july,movie.production_companies
+tom hanks movies,movie.rating
+show me movies with tom hanks,movie.directed_by
+i am trying to find a list of movies with tom hanks,movie.directed_by
+provide movies directed by oliver stone please,movie.initial_release_date
+i want to look for movies produced by albert ruddy,movie.starring.actor
+what are all of the movies produced by albert ruddy,none
+movies produced by yash chopra,movie.country movie.language movie.genre
+what did brad pitt porduce,movie.rating
+bring up all brad pitt produced movies,none
+show all movies that penny marshall directed,movie.starring.actor
+i need a list of all the movies directed by james cameron,movie.directed_by
+give me a list of all the movies directed by james cameron,movie.production_companies
+james cameron movies produced,movie.country movie.language
+movies produced by james cameron,movie.estimated_budget
+what films have been produced by warner bros.,movie.rating
+find movies produced by warner bros.,movie.country
+what movies have been produced by warner bros.,none
+show me movies by wb,movie.produced_by
+give me information about finding nemo,movie.starring.actor
+i want information about finding nemo,movie.production_companies
+show me finding nemo,movie.language
+finding nemo bing,movie.country
+search finding nemo,movie.directed_by
+show information page for finding nemo,movie.directed_by
+the campaign information,movie.directed_by
+more information on apallo thirteen,movie.directed_by
+research apollo thirteen,movie.genre
+has kristen stewart starred in movies other than twilight,none
+show me kristen stewart movies,none
+what movies has kristen stewarted starred in,movie.directed_by
+lionsgate movies,movie.directed_by
+show lionsgate movies,movie.produced_by
+show movies made by production lionsgate,movie.initial_release_date
+give me something by charles vidor,movie.gross_revenue
+show charles vidor movie,movie.directed_by
+what film did charles vidor direct,movie.subjects
+which movies have been made outside the united states,movie.production_companies
+find me nigeria movies,movie.rating
+display 7 arts movies,movie.country
+korean movie,movie.subjects
+what other movies did roberto benigni star in,movie.starring.actor
+i want to see movies starring denzel washington please,movie.country movie.language movie.genre
+list the kareena 's movie,movie.production_companies
+i want to watch a drama made in turkey,movie.country
+jennifer lopez played in what movies,movie.directed_by
+show me all of the movies directed by woody allen,movie.directed_by
+show robert wise movies,movie.country
+want to see robert wise movies,movie.starring.actor
+what movies has robert wise directed,movie.initial_release_date
+what movies have robert wise directed,none
+where can i find a list of movies produced by chris nolan,none
+what movies has brad pitt been in,movie.genre
+what are the movies brad pitt had been in,movie.production_companies
+what are some movies with brad pitt,movie.starring.actor
+find an r rated movie,movie.directed_by
+show me r rated movies,movie.country
+give me a list of r rated movies,movie.country movie.language
+look up r rated movies,movie.initial_release_date
+i want only r rated movies,movie.produced_by
+i want to see a list of rated r movies,movie.starring.actor
+show me only movies with a rating of r,movie.initial_release_date
+please look for movies with an r rating,movie.produced_by
+show me movies rated r,movie.directed_by
+look for movies with an r rating,movie.starring.actor
+give me a list of all movies that are rated r,movie.language
+i want to watch movies from norway,movie.production_companies
+can i have a list of spanish speaking movies,movie.rating
+show me movies made in mexico,none
+show me the movie pot zombies,movie.estimated_budget
+what movies have zombies in them,movie.subjects
+show me movies about zombies,movie.country
+show me movies about zombies,movie.country
+show me ones by david fincher,movie.rating
+show ridley scott 's filmography,movie.rating
